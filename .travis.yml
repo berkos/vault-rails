@@ -24,6 +24,7 @@ before_install:
 branches:
   only:
     - master
+    - 2_5_1
 
 rvm:
   - 2.2.8
